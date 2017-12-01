@@ -1,0 +1,10 @@
+{
+    "database": {
+        "host": "localhost",
+        "username": "root",
+        "password": "root",
+        "port": 3306,
+        "name": "-"
+    },
+    "realtime_lines": ["H", "J", "K", "L", "M", "N", "P", "R", "U"]
+}
