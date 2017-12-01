@@ -6,5 +6,5 @@
         "port": 3306,
         "name": "-"
     },
-    "realtime_lines": ["H", "J", "K", "L", "M", "N", "P", "R", "U"]
+    "realtime_lines": ["A", "B", "C", "D", "E", "H", "J", "K", "L", "M", "N", "P", "R", "U"]
 }
